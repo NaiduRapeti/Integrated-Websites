@@ -19,6 +19,13 @@ PodcastPage - podcastbynaidu.ccbp.tech
 QuizQuestionPage - quizbynaidu.ccbp.tech
 YogaPage - naiduyogapage.ccbp.tech
 
+# Technologies Used
+
+HTML
+CSS
+Bootstraps
+ccbp ui kit
+
 # Purpose
 
 The purpose of this repository is to provide a practical introduction to web development through these integrated websites. Explore the HTML and CSS code to understand how each project is structured and styled. Feel free to experiment, modify, and enhance your understanding of front-end web development.
