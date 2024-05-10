@@ -5,19 +5,19 @@ This repository contains a collection of 13 integrated websites designed for beg
 
 # Websites Included
 
-ArticlesPage - naiduarticles.ccbp.tech
-BooksStorePage - naidubooks.ccbp.tech
-ConferencePage - conferencenaidu.ccbp.tech
-FavoriteStoresPage - naidustore.ccbp.tech
-FlatsPage - naiduflats.ccbp.tech
-FoundationsPage - naidufoundation.ccbp.tech
-MobileSpecificationsPage - mobilespecsn.ccbp.tech
-MoviePage - naidumoviepage.ccbp.tech
-MusicPage - naidumusicpage.ccbp.tech
-MyProjectsPage - projectsbynaidu.ccbp.tech
-PodcastPage - podcastbynaidu.ccbp.tech
-QuizQuestionPage - quizbynaidu.ccbp.tech
-YogaPage - naiduyogapage.ccbp.tech
+ArticlesPage - naiduarticles.ccbp.tech <br/>
+BooksStorePage - naidubooks.ccbp.tech<br/>
+ConferencePage - conferencenaidu.ccbp.tech<br/>
+FavoriteStoresPage - naidustore.ccbp.tech<br/>
+FlatsPage - naiduflats.ccbp.tech<br/>
+FoundationsPage - naidufoundation.ccbp.tech<br/>
+MobileSpecificationsPage - mobilespecsn.ccbp.tech<br/>
+MoviePage - naidumoviepage.ccbp.tech<br/>
+MusicPage - naidumusicpage.ccbp.tech<br/>
+MyProjectsPage - projectsbynaidu.ccbp.tech<br/>
+PodcastPage - podcastbynaidu.ccbp.tech<br/>
+QuizQuestionPage - quizbynaidu.ccbp.tech<br/>
+YogaPage - naiduyogapage.ccbp.tech<br/>
 
 # Technologies Used
 
